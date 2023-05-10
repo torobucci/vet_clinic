@@ -15,8 +15,4 @@ VALUES
   ('Blossom', '1998-10-13', 3, TRUE, 17),
   ('Ditto', '2022-05-14', 4, TRUE, 22);
 
-BEGIN;
-ALTER TABLE animals
-RENAME COLUMN species TO unspecified;
-SELECT * FROM animals;
-ROLLBACK;
+
