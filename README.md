@@ -99,7 +99,8 @@ render.com
 
 <!-- AUTHORS -->
 
-## 👥 Author : <a name="authors">Kevin Toro</a>
+## 👥 <a name="authors">Authors</a>
+👤 **Kevin Toro**
 - GitHub: [@torobucii](https://github.com/torobucci)
 - Twitter: [@torobucii](https://twitter.com/@torobucii)
 - LinkedIn: [Kevin Toro](https://www.linkedin.com/in/kevin-toro-047181238/)
