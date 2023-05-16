@@ -27,6 +27,8 @@
 
 **vet-clinic** is a postgreSQL database that store details of animals in a veterinary clinic and also generates specific reports using SQL queries.
 
+Checkout the database schema diagram [here](https://drawsql.app/teams/kevin-toro/diagrams/vet-clinic-database)
+
 ## 🛠 Built With <a name="built-with"></a>
 - PostgreSQL
 
