@@ -99,7 +99,8 @@ render.com
 
 <!-- AUTHORS -->
 
-## 👥 Author : <a name="authors">Kevin Toro</a>
+## 👥 <a name="authors">Authors</a>
+👤 **Kevin Toro**
 - GitHub: [@torobucii](https://github.com/torobucci)
 - Twitter: [@torobucii](https://twitter.com/@torobucii)
 - LinkedIn: [Kevin Toro](https://www.linkedin.com/in/kevin-toro-047181238/)
@@ -108,6 +109,11 @@ render.com
 - GitHub: [@danutibe07](https://github.com/danutibe07)
 - Twitter: [@Danielutibe07](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
 - LinkedIn: [Akpan Daniel](https://www.linkedin.com/in/danutibe07/)
+
+👤 **Zewdie Habtie**
+- GitHub: [ZewdieMc](https://github.com/ZewdieMc)
+- Twitter: [@HabtieZewdie](https://twitter.com/HabtieZewdie)
+- LinkedIn: [Zewdie Habtie](https://www.linkedin.com/in/zewdiehabtie/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
