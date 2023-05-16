@@ -27,8 +27,6 @@
 
 **vet-clinic** is a postgreSQL database that store details of animals in a veterinary clinic and also generates specific reports using SQL queries.
 
-Checkout the database schema diagram [here](https://drawsql.app/teams/kevin-toro/diagrams/vet-clinic-database)
-
 ## 🛠 Built With <a name="built-with"></a>
 - PostgreSQL
 
@@ -105,6 +103,11 @@ render.com
 - GitHub: [@torobucii](https://github.com/torobucci)
 - Twitter: [@torobucii](https://twitter.com/@torobucii)
 - LinkedIn: [Kevin Toro](https://www.linkedin.com/in/kevin-toro-047181238/)
+
+👤 **AKPAN DANIEL**
+- GitHub: [@danutibe07](https://github.com/danutibe07)
+- Twitter: [@Danielutibe07](https://twitter.com/Danielutibe07?t=2kvKPTZQ7IGCw2FugE9xCQ&s=09)
+- LinkedIn: [Akpan Daniel](https://www.linkedin.com/in/danutibe07/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
